@@ -36,10 +36,8 @@ jobs:
         with:
           github_user_name: pathospratama
           github_token: ${{ github.token }}
-
           outputs: |
             dist/github-contribution-snake-light.svg?color_snake=%23AA9BEF&color_dots=%23EBEDF0,%23D8CEF9,%23BBAEF1,%23AA9BEF,%23F5C77E
-
             dist/github-contribution-snake-dark.svg?palette=github-dark&color_snake=%23AA9BEF&color_dots=%23161B22,%232D2744,%235F4E9A,%23AA9BEF,%23F5C77E
 
       - name: Validate generated SVGs
