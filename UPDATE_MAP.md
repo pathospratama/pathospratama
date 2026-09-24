@@ -1,16 +1,14 @@
-# Pathos Snake Update Map
-
-Copy these files into the existing `pathospratama` profile repository.
+# Pathos Kratos — Stable Snake / Metrics Update Map
 
 | File | Action |
 | --- | --- |
-| `README.md` | Replace with the included complete README |
-| `.github/workflows/snake.yml` | Replace/add the workflow |
-| `scripts/snake/generate.py` | Add custom renderer |
-| `scripts/snake/config.json` | Add animation/theme configuration |
-| `scripts/snake/sample-contributions.json` | Add deterministic local preview data |
-| `docs/SNAKE_SYSTEM.md` | Add architecture and setup documentation |
-| `preview.html` | Replace with the upgraded local preview |
-| `.gitignore` | Keep/add `dist/` |
+| `README.md` | Replace with the upgraded Pathos profile presentation |
+| `.github/workflows/snake.yml` | Stable contribution Snake workflow with Pathos palette and existing output filenames |
+| `.github/workflows/metrics.yml` | Replace failing `lowlighter/metrics` PAT dependency |
+| `scripts/language_card.py` | Repository-owned Technology Mix SVG generator |
+| `scripts/language-sample.json` | Deterministic offline language-card sample |
+| `scripts/verify_snake_local.sh` | Full local validation suite |
+| `docs/SNAKE_SYSTEM.md` | Architecture and runtime notes |
+| `docs/SNAKE_SETUP.md` | Local → GitHub deployment procedure |
 
-Do not remove the existing `assets/banner-*`, `assets/radar-*`, `assets/card-*`, `assets/metrics.languages.svg`, or the existing radar/metrics workflows. The Snake system is additive.
+Existing banner/radar/card assets remain untouched.

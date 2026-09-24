@@ -109,94 +109,95 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=05%20%C2%B7%20SELF-HOSTED&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Self-hosted"></div>
 <br>
 
-<div align="center"><sub>Repository-owned SVGs · Scripts · GitHub Actions</sub><br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg"><img src="assets/card-stats-dark.svg" width="560" alt="Self-hosted stats"></picture>
-<br><br><img src="assets/metrics.languages.svg" width="560" alt="Language breakdown"></div>
+<div align="center">
+  <sub>Repository-owned SVGs · Python generators · GitHub Actions</sub>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+    <img src="assets/card-stats-dark.svg" width="560" alt="Self-hosted GitHub statistics">
+  </picture>
+  <br><br>
+  <img src="assets/metrics.languages.svg" width="760" alt="Self-hosted technology mix">
+</div>
 
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
 
 <!-- 06 ANALYTICS -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=06%20%C2%B7%20ANALYTICS&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Analytics"></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=06%20%C2%B7%20ENGINEERING%20ACTIVITY&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Engineering activity"></div>
 <br>
-
-<div align="center"><sub>Live engineering activity · Aktivitas engineering yang diperbarui</sub><br><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg"><img src="assets/card-stats-dark.svg" width="720" alt="GitHub statistics"></picture>
-<br><br><img src="assets/metrics.languages.svg" width="560" alt="Language breakdown"></div>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
-
-<!-- 07 CONTRIBUTION SNAKE -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=07%20%C2%B7%20CONTRIBUTION%20SNAKE&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Contribution Snake"></div>
-<br>
-
 <div align="center">
-  <sub>🇬🇧 Repository-generated snake · real contribution calendar · active cells are eaten in sequence<br>
-  🇮🇩 Snake di-generate repository · contribution calendar menjadi sumber data · cell aktif dimakan berurutan</sub>
+  <sub>Live contribution movement · activity is treated as the system's data stream</sub>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&text=SCAN%20%E2%86%92%20ACQUIRE%20%E2%86%92%20BITE%20%E2%86%92%20CONSUME%20%E2%86%92%20REPEAT&fontSize=18&fontColor=AA9BEF&animation=fadeIn" width="760" alt="Snake protocol">
 </div>
 
 <br>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg">
-  <img width="96%" src="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg" alt="Animated Pathos Kratos contribution snake">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg">
+    <img width="96%" src="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg" alt="Pathos Kratos animated GitHub contribution snake">
+  </picture>
 </div>
 
-<br>
-<div align="center"><sub><code>SCAN</code> → <code>ACQUIRE</code> → <code>BITE</code> → <code>CONSUME</code> → <code>REPEAT</code></sub></div>
-
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
-
-<!-- 08 SYSTEM -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=08%20%C2%B7%20SNAKE%20SYSTEM&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Snake system"></div>
 <br>
 
 <table>
-<tr><th>Layer</th><th>Role</th><th>Behavior</th></tr>
-<tr><td><code>DATA</code></td><td>GitHub contribution calendar</td><td>52–53 week, 7-row source grid</td></tr>
-<tr><td><code>PATH</code></td><td>Serpentine route</td><td>Head traverses the grid in deterministic order</td></tr>
-<tr><td><code>FOOD</code></td><td>Active contributions</td><td>Non-zero cells become targets</td></tr>
-<tr><td><code>BITE</code></td><td>Consumption effect</td><td>Pulse → scale → fade → respawn</td></tr>
-<tr><td><code>BODY</code></td><td>Snake segments</td><td>18 delayed motion followers</td></tr>
-<tr><td><code>THEME</code></td><td>Dark / light output</td><td>Separate SVG per GitHub color scheme</td></tr>
+<tr>
+  <td width="25%" align="center"><code>HEAD</code><br><sub>find active contribution</sub></td>
+  <td width="25%" align="center"><code>BODY</code><br><sub>follow traversal path</sub></td>
+  <td width="25%" align="center"><code>BITE</code><br><sub>consume active cell</sub></td>
+  <td width="25%" align="center"><code>LOOP</code><br><sub>restart from the grid edge</sub></td>
+</tr>
+</table>
+
+<br>
+
+<div align="center"><sub><code>PATHOS // SNAKE.PROTOCOL</code> · Lavender snake · GitHub contribution colors · Dark/light aware</sub></div>
+
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
+
+<!-- 07 SYSTEM -->
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=07%20%C2%B7%20SNAKE%20SYSTEM&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Snake system"></div>
+<br>
+
+<table>
+<tr><th>Layer</th><th>Input</th><th>Processing</th><th>Output</th></tr>
+<tr><td><code>DATA</code></td><td>GitHub contribution calendar</td><td>52–53 week contribution grid</td><td>Cells + contribution intensity</td></tr>
+<tr><td><code>ENGINE</code></td><td>Contribution cells</td><td>Snake route + timed consumption</td><td>Animated motion path</td></tr>
+<tr><td><code>THEME</code></td><td>GitHub color scheme</td><td>Pathos palette mapping</td><td>Light / dark SVG</td></tr>
+<tr><td><code>DELIVERY</code></td><td>Generated SVG</td><td>Publish to <code>output</code></td><td>README live asset</td></tr>
 </table>
 
 <br>
 <div align="center"><pre>
-GITHUB DATA
-    │
-    ▼
-┌───────────────┐
-│ CONTRIBUTIONS │
-└───────┬───────┘
+CONTRIBUTION GRAPH
         │
         ▼
-┌───────────────┐
-│ SNAKE ENGINE  │───► GRID NORMALIZER
-└───────┬───────┘         │
-        │                  ▼
-        │             HIT SCHEDULER
-        │                  │
-        ▼                  ▼
-    SNAKE BODY       EAT / PULSE FX
-        │                  │
-        └────────┬─────────┘
-                 ▼
-          ANIMATED SVG
+   SNAKE ENGINE
+        │
+   ┌────┼────┐
+   ▼    ▼    ▼
+  HEAD BODY  FX
+   │    │    │
+   └────┼────┘
+        ▼
+   ANIMATED SVG
+        │
+        ▼
+     OUTPUT BRANCH
+        │
+        ▼
+      README
 </pre></div>
 
-<div align="center"><sub>Implementation details: <a href="docs/SNAKE_SYSTEM.md"><code>docs/SNAKE_SYSTEM.md</code></a></sub></div>
-
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
-
-<!-- 09 DIRECTION -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=09%20%C2%B7%20DIRECTION&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Direction"></div>
+<!-- 08 DIRECTION -->
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=08%20%C2%B7%20DIRECTION&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Direction"></div>
 <br>
 
 <table><tr>

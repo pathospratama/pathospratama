@@ -1,0 +1,14 @@
+{
+  "repo": "pathospratama/pathospratama",
+  "version": "snake-metrics-stable-v2",
+  "snake_workflow": ".github/workflows/snake.yml",
+  "metrics_workflow": ".github/workflows/metrics.yml",
+  "snake_engine": "Platane/snk/svg-only@v3",
+  "snake_output": [
+    "github-contribution-snake-light.svg",
+    "github-contribution-snake-dark.svg"
+  ],
+  "metrics_engine": "scripts/language_card.py",
+  "metrics_pat_required": false,
+  "local_verifier": "scripts/verify_snake_local.sh"
+}

@@ -4,3 +4,8 @@ __pycache__/
 venv/
 .DS_Store
 Thumbs.db
+# Local Snake test output
+assets/snake-test-*.svg
+
+# Local generated verification output
+/tmp/pathos-snake-local-check/

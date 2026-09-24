@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Pathos Contribution Snake
 
 on:
   schedule:
@@ -9,26 +9,61 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/snake.yml"
+      - "README.md"
+      - "scripts/snake/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pathos-contribution-snake
+  cancel-in-progress: true
 
 jobs:
   generate:
+    name: Generate animated contribution snake
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     permissions:
       contents: write
 
     steps:
-      - name: Generate GitHub contribution snake
-        uses: Platane/snk@v3
+      - name: Generate light + dark snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: pathospratama
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          github_token: ${{ github.token }}
 
-      - name: Publish snake animation
+          outputs: |
+            dist/github-contribution-snake-light.svg?color_snake=%23AA9BEF&color_dots=%23EBEDF0,%23D8CEF9,%23BBAEF1,%23AA9BEF,%23F5C77E
+
+            dist/github-contribution-snake-dark.svg?palette=github-dark&color_snake=%23AA9BEF&color_dots=%23161B22,%232D2744,%235F4E9A,%23AA9BEF,%23F5C77E
+
+      - name: Validate generated SVGs
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -s dist/github-contribution-snake-light.svg
+          test -s dist/github-contribution-snake-dark.svg
+
+          grep -q "<svg" dist/github-contribution-snake-light.svg
+          grep -q "<svg" dist/github-contribution-snake-dark.svg
+
+          grep -q "<animate" dist/github-contribution-snake-light.svg
+          grep -q "<animate" dist/github-contribution-snake-dark.svg
+
+          echo "Light SVG: $(wc -c < dist/github-contribution-snake-light.svg) bytes"
+          echo "Dark SVG : $(wc -c < dist/github-contribution-snake-dark.svg) bytes"
+          echo "Snake validation: PASS"
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
+          target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
