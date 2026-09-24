@@ -1,0 +1,29 @@
+{
+  "_comment": "Featured engineering work by Pathos Kratos. Selected to represent AI systems, backend architecture, APIs, computer vision, IoT, and production-oriented development.",
+  "projects": [
+    {
+      "repo": "Jurivia",
+      "description": "Legal-tech platform connecting clients and advocates with lawyer profiles, scheduling, messaging, authentication, and backend services built around Next.js, FastAPI, PostgreSQL, and Supabase."
+    },
+    {
+      "repo": "makistoAIagentService",
+      "description": "Modular AI agent service with agents, data providers, decision engines, ML models, orchestration, streaming, and task execution for building intelligent backend workflows."
+    },
+    {
+      "repo": "makistoTradeAPI",
+      "description": "Crypto API Gateway with a structured Python backend architecture for exposing and managing cryptocurrency-related services through modular API and core layers."
+    },
+    {
+      "repo": "ToolsBackend",
+      "description": "Python backend platform for application tooling, documentation services, PDF utilities, and extensible API workflows, deployed as a production web service."
+    },
+    {
+      "repo": "Photobooth",
+      "description": "Real-time Python photobooth system with image processing, background removal, filters, effects, REST APIs, and WebSocket communication for interactive photo workflows."
+    },
+    {
+      "repo": "ESP32-IoT-System",
+      "description": "Connected IoT system built around ESP32 with Bluetooth provisioning, Wi-Fi configuration, WebSocket communication, remote commands, and server-driven device interaction."
+    }
+  ]
+}

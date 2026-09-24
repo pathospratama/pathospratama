@@ -1,0 +1,13 @@
+{
+  "title": "Engineering Skill Radar",
+  "_comment": "Self-rated, 0-100. Represents practical engineering capabilities across application development, backend architecture, AI, data systems, realtime communication, 3D, and IoT.",
+  "axes": [
+    { "label": "Python Engineering",       "value": 94 },
+    { "label": "Full-Stack Development",   "value": 92 },
+    { "label": "Backend Architecture",     "value": 93 },
+    { "label": "AI Engineering",            "value": 89 },
+    { "label": "System & API Design",      "value": 91 },
+    { "label": "Realtime Systems",          "value": 87 },
+    { "label": "3D & IoT Engineering",     "value": 85 }
+  ]
+}

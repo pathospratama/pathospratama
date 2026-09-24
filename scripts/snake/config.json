@@ -1,0 +1,28 @@
+{
+  "username": "pathospratama",
+  "loop_seconds": 31.0,
+  "snake_segments": 18,
+  "segment_gap_seconds": 0.12,
+  "cell_size": 12,
+  "cell_gap": 3,
+  "radius": 2.8,
+  "accent": "#AA9BEF",
+  "mint": "#7EE7C7",
+  "amber": "#F5C77E",
+  "dark": {
+    "background": "#0D1117",
+    "panel": "#161B22",
+    "empty": "#161B22",
+    "border": "#30363D",
+    "text": "#E6EDF3",
+    "muted": "#8B949E"
+  },
+  "light": {
+    "background": "#FFFFFF",
+    "panel": "#F6F8FA",
+    "empty": "#EBEDF0",
+    "border": "#D0D7DE",
+    "text": "#1F2328",
+    "muted": "#57606A"
+  }
+}
