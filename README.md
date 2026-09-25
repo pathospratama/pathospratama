@@ -1,25 +1,3 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     PATHOS KRATOS — GITHUB PROFILE README
-     Edition : Curated v6 · Systemic · Animated · Self-Hosted · Bilingual
-     Sections: hero · focus · projects · stack · signals · self-hosted
-               analytics · contribution snake · system · direction · connect · footer
-     Palette : #AA9BEF (lavender) · #7EE7C7 (mint) · #F5C77E (amber)
-     ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Pathos%20Kratos&fontSize=50&fontColor=AA9BEF&animation=fadeIn&fontAlignY=34&desc=Senior%20Developer%20%26%20IT%20Consultant&descAlignY=56&descSize=17" width="100%" alt="Pathos Kratos header">
-
-  <br>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.v9.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.v9.svg">
-    <img src="assets/banner-dark.v9.svg" width="100%" alt="Pathos Kratos engineering banner">
-  </picture>
-
-  <br><br>
-
-  <a href="https://github.com/pathospratama"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=1000&color=AA9BEF&center=true&vCenter=true&width=900&lines=Senior+Developer+%26+IT+Consultant;Full-Stack+%C2%B7+AI+%C2%B7+Backend+%C2%B7+3D+%C2%B7+IoT;Designing+Systems+That+Ship" alt="Typing tagline"></a>
 
   <br><br>
 
