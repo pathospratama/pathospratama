@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-label="pathospratama language breakdown" font-family="ui-sans-serif,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+  <defs>
+    <linearGradient id="pathosGradient" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#AA9BEF"/>
+      <stop offset="0.55" stop-color="#7EE7C7"/>
+      <stop offset="1" stop-color="#F5C77E"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="759" height="229" rx="14" fill="#0D1117" stroke="#30363D"/>
+  <text x="24" y="31" font-size="16" font-weight="700" fill="#E6EDF3">Technology Mix</text>
+  <text x="24" y="51" font-size="11" fill="#8B949E">pathospratama · 6 leading languages · repository-owned analytics</text>
+  <rect x="24" y="75" width="712" height="2" rx="1" fill="url(#pathosGradient)" opacity="0.72"/>
+  <rect x="24" y="86" width="712" height="14" rx="4" fill="#161B22"/>
+  <rect x="24.00" y="86" width="329.76" height="14" rx="4" fill="#3572A5"/><rect x="353.76" y="86" width="228.21" height="14" rx="4" fill="#F1E05A"/><rect x="581.97" y="86" width="137.71" height="14" rx="4" fill="#E34C26"/><rect x="719.68" y="86" width="12.25" height="14" rx="4" fill="#563D7C"/><rect x="731.93" y="86" width="3.43" height="14" rx="4" fill="#89E051"/><rect x="735.36" y="86" width="700.00" height="14" rx="4" fill="#AA9BEF"/>
+  <circle cx="29.0" cy="128.0" r="5" fill="#3572A5"/><text x="41.0" y="132.0" font-size="11.5" fill="#E6EDF3">Python</text><text x="360.0" y="132.0" text-anchor="end" font-size="11.5" fill="#8B949E">46.3%</text><circle cx="385.0" cy="128.0" r="5" fill="#F1E05A"/><text x="397.0" y="132.0" font-size="11.5" fill="#E6EDF3">JavaScript</text><text x="716.0" y="132.0" text-anchor="end" font-size="11.5" fill="#8B949E">32.1%</text><circle cx="29.0" cy="150.0" r="5" fill="#E34C26"/><text x="41.0" y="154.0" font-size="11.5" fill="#E6EDF3">HTML</text><text x="360.0" y="154.0" text-anchor="end" font-size="11.5" fill="#8B949E">19.3%</text><circle cx="385.0" cy="150.0" r="5" fill="#563D7C"/><text x="397.0" y="154.0" font-size="11.5" fill="#E6EDF3">CSS</text><text x="716.0" y="154.0" text-anchor="end" font-size="11.5" fill="#8B949E">1.7%</text><circle cx="29.0" cy="172.0" r="5" fill="#89E051"/><text x="41.0" y="176.0" font-size="11.5" fill="#E6EDF3">Shell</text><text x="360.0" y="176.0" text-anchor="end" font-size="11.5" fill="#8B949E">0.5%</text><circle cx="385.0" cy="172.0" r="5" fill="#AA9BEF"/><text x="397.0" y="176.0" font-size="11.5" fill="#E6EDF3">Dockerfile</text><text x="716.0" y="176.0" text-anchor="end" font-size="11.5" fill="#8B949E">0.1%</text>
+</svg>
