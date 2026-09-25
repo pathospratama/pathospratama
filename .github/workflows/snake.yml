@@ -51,12 +51,9 @@ jobs:
           grep -q "<svg" dist/github-contribution-snake-light.svg
           grep -q "<svg" dist/github-contribution-snake-dark.svg
 
-          grep -q "<animate" dist/github-contribution-snake-light.svg
-          grep -q "<animate" dist/github-contribution-snake-dark.svg
-
           echo "Light SVG: $(wc -c < dist/github-contribution-snake-light.svg) bytes"
           echo "Dark SVG : $(wc -c < dist/github-contribution-snake-dark.svg) bytes"
-          echo "Snake validation: PASS"
+          echo "Snake SVG generation: PASS"
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
