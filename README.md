@@ -1,8 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  PATHOS KRATOS — README.md                                     -->
-<!--  Theme: Hacker / Terminal / Cyberpunk                          -->
+<!--  Theme: Hacker / Terminal                                      -->
 <!--  Palette: #39FF14 (neon green) · #FF073A (blood red)           -->
-<!--  Terminal box: capsule-render SVG                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -43,39 +42,10 @@
 
 <br>
 
-<!-- ═══════════════ TERMINAL BOX — 5 VARIAN ═══════════════ -->
+<!-- ═══════════════ SINGLE TERMINAL BOX (NEOFETCH STYLE) ═══════════════ -->
 
-<!-- [1] whoami -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=140&text=%3E%20root%40pathos%3A~%24%20whoami&fontColor=39FF14&fontSize=18&fontAlign=8&fontAlignY=30&desc=Pathos%20Kratos%20%E2%80%94%20Senior%20Developer%20%26%20IT%20Consultant&descAlign=8&descAlignY=65&descSize=15&descColor=39FF14" width="100%" alt="whoami">
-</div>
-
-<br>
-
-<!-- [2] cat /etc/status -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=140&text=%3E%20root%40pathos%3A~%24%20cat%20%2Fetc%2Fstatus&fontColor=39FF14&fontSize=18&fontAlign=8&fontAlignY=30&desc=%5B%E2%97%8F%5D%20SYSTEM%20ONLINE%20%20%20%5B%E2%97%8F%5D%20AVAILABLE%20FOR%20HIRE&descAlign=8&descAlignY=65&descSize=15&descColor=FF073A" width="100%" alt="status">
-</div>
-
-<br>
-
-<!-- [3] uname -a -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=140&text=%3E%20root%40pathos%3A~%24%20uname%20-a&fontColor=39FF14&fontSize=18&fontAlign=8&fontAlignY=30&desc=PathosOS%209.0%20%231%20SMP%20x86_64%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Backend%20%C2%B7%203D%20%C2%B7%20IoT&descAlign=8&descAlignY=65&descSize=15&descColor=39FF14" width="100%" alt="uname">
-</div>
-
-<br>
-
-<!-- [4] uptime -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=140&text=%3E%20root%40pathos%3A~%24%20uptime&fontColor=39FF14&fontSize=18&fontAlign=8&fontAlignY=30&desc=up%2024%2F7%2C%200%20users%2C%20load%20average%3A%200.42%2C%200.31%2C%200.28&descAlign=8&descAlignY=65&descSize=15&descColor=39FF14" width="100%" alt="uptime">
-</div>
-
-<br>
-
-<!-- [5] neofetch -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=180&text=%3E%20root%40pathos%3A~%24%20neofetch&fontColor=39FF14&fontSize=18&fontAlign=8&fontAlignY=25&desc=OS%3A%20PathosOS%209.0%20x86_64%20%7C%20Shell%3A%20bash%20%7C%20Uptime%3A%2024%2F7%0AStacks%3A%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Backend%20%C2%B7%203D%20%C2%B7%20IoT%0AStatus%3A%20%5B%E2%97%8F%5D%20ONLINE%20%7C%20Location%3A%20Indonesia&descAlign=8&descAlignY=55&descSize=14&descColor=39FF14" width="100%" alt="neofetch">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=240&text=%3E%20root%40pathos%3A~%24%20neofetch&fontColor=39FF14&fontSize=20&fontAlign=50&fontAlignY=15&desc=Pathos%20Kratos%20%E2%80%94%20Senior%20Developer%20%26%20IT%20Consultant%0A%0AOS%3A%20PathosOS%209.0%20x86_64%20%7C%20Shell%3A%20bash%20%7C%20Uptime%3A%2024%2F7%0AStacks%3A%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Backend%20%C2%B7%203D%20%C2%B7%20IoT%0AStatus%3A%20%5B%E2%97%8F%5D%20ONLINE%20%7C%20Location%3A%20Indonesia&descAlign=50&descAlignY=55&descSize=15&descColor=39FF14" width="100%" alt="root@pathos neofetch">
 </div>
 
 <br>
