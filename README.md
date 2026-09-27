@@ -71,11 +71,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
 
 
-<div align="center">
-  <sub>Live contribution movement · activity is treated as the system's data stream</sub>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&text=SCAN%20%E2%86%92%20ACQUIRE%20%E2%86%92%20BITE%20%E2%86%92%20CONSUME%20%E2%86%92%20REPEAT&fontSize=18&fontColor=AA9BEF&animation=fadeIn" width="760" alt="Snake protocol">
-</div>
+
 
 <br>
 
