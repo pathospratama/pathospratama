@@ -7,10 +7,10 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
 <div align="center">
 
-  <!-- ═══════════════════════════════════════════════════════════════
+  <!-- ==============================================================
        ENGINEERING BANNER
-       Repository-owned visual
-  ════════════════════════════════════════════════════════════════ -->
+       Repository-owned banner
+  ============================================================== -->
 
   <picture>
     <source
@@ -26,22 +26,24 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
     <img
       src="assets/banner-dark.v9.svg"
       width="100%"
-      alt="Pathos Kratos engineering banner"
+      alt="Engineering banner"
     >
   </picture>
 
-  <br><br>
+  <br>
+  <br>
 
 
-  <!-- ═══════════════════════════════════════════════════════════════
-       IDENTITY
-  ════════════════════════════════════════════════════════════════ -->
+  <!-- ==============================================================
+       ENGINEERING IDENTITY
+  ============================================================== -->
 
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=AA9BEF&center=true&vCenter=true&width=900&lines=SOFTWARE+ENGINEERING;SYSTEMS+%C2%B7+AI+%C2%B7+REALTIME;FULL-STACK+%C2%B7+3D+%C2%B7+IoT;DESIGNING+SYSTEMS+THAT+SHIP"
     alt="Engineering identity"
   >
 
+  <br>
   <br>
 
   <p>
@@ -58,26 +60,22 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   <br>
 
 
-  <!-- ═══════════════════════════════════════════════════════════════
+  <!-- ==============================================================
        PROFILE LINKS
-  ════════════════════════════════════════════════════════════════ -->
+  ============================================================== -->
 
   <a href="https://github.com/pathospratama">
-
     <img
       src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=AA9BEF"
       alt="GitHub"
     >
-
   </a>
 
   <a href="https://github.com/pathospratama?tab=repositories">
-
     <img
       src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=AA9BEF"
       alt="Repositories"
     >
-
   </a>
 
   <img
@@ -85,14 +83,16 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
     alt="Profile views"
   >
 
-  <br><br>
+  <br>
+  <br>
 
   <img
     src="https://img.shields.io/badge/STATUS-AVAILABLE-7EE7C7?style=for-the-badge&labelColor=0d1117"
     alt="Available"
   >
 
-  <br><br>
+  <br>
+  <br>
 
   <sub>
     🇮🇩 Indonesia-based · Software Engineering · Systems · AI · Interactive Technology
@@ -104,9 +104,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      DIVIDER
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header"
@@ -118,9 +118,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      ENGINEERING PROFILE
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <div align="center">
 
@@ -136,20 +136,17 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
   <br>
 
-
   <table>
-
     <tr>
 
       <!-- BUILD -->
 
       <td width="33%" align="center">
 
-        <h3>01</h3>
-
         <b>BUILD</b>
 
-        <br><br>
+        <br>
+        <br>
 
         <sub>
           Full-stack applications
@@ -166,11 +163,10 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
       <td width="33%" align="center">
 
-        <h3>02</h3>
-
         <b>CONNECT</b>
 
-        <br><br>
+        <br>
+        <br>
 
         <sub>
           Realtime systems
@@ -187,11 +183,10 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
       <td width="33%" align="center">
 
-        <h3>03</h3>
-
         <b>EXPLORE</b>
 
-        <br><br>
+        <br>
+        <br>
 
         <sub>
           AI workflows
@@ -204,7 +199,6 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
       </td>
 
     </tr>
-
   </table>
 
 </div>
@@ -218,25 +212,15 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   <p>
 
     <code>UNDERSTAND</code>
-
     →
-
     <code>DESIGN</code>
-
     →
-
     <code>BUILD</code>
-
     →
-
     <code>INTEGRATE</code>
-
     →
-
     <code>TEST</code>
-
     →
-
     <code>SHIP</code>
 
   </p>
@@ -247,9 +231,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      DIVIDER
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header"
@@ -261,10 +245,10 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      SIGNALS
-     ONLY ONE RADAR
-═══════════════════════════════════════════════════════════════════ -->
+     ONE RADAR ONLY
+============================================================== -->
 
 <div align="center">
 
@@ -281,7 +265,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   <br>
 
 
-  <!-- SINGLE RADAR -->
+  <!-- ============================================================
+       SINGLE ENGINEERING RADAR
+  ============================================================= -->
 
   <picture>
 
@@ -304,7 +290,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   </picture>
 
 
-  <br><br>
+  <br>
+  <br>
 
   <sub>
     Engineering Skill Radar
@@ -316,9 +303,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      DIVIDER
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header"
@@ -330,9 +317,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
-     SELF HOSTED
-═══════════════════════════════════════════════════════════════════ -->
+<!-- ==============================================================
+     SELF-HOSTED
+============================================================== -->
 
 <div align="center">
 
@@ -349,7 +336,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   <br>
 
 
-  <!-- GITHUB STATISTICS -->
+  <!-- ============================================================
+       GITHUB STATISTICS
+  ============================================================= -->
 
   <picture>
 
@@ -372,10 +361,13 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   </picture>
 
 
-  <br><br>
+  <br>
+  <br>
 
 
-  <!-- LANGUAGE / TECHNOLOGY METRICS -->
+  <!-- ============================================================
+       LANGUAGE METRICS
+  ============================================================= -->
 
   <img
     src="assets/metrics.languages.svg"
@@ -389,9 +381,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      DIVIDER
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header"
@@ -403,9 +395,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      ENGINEERING ACTIVITY
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <div align="center">
 
@@ -422,7 +414,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   <br>
 
 
-  <!-- ACTIVITY FLOW -->
+  <!-- ============================================================
+       ENGINEERING WORKFLOW
+  ============================================================= -->
 
   <img
     src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=70&text=BUILD%20%E2%86%92%20SHIP%20%E2%86%92%20OBSERVE%20%E2%86%92%20IMPROVE&fontSize=18&fontColor=AA9BEF&animation=fadeIn"
@@ -431,10 +425,13 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   >
 
 
-  <br><br>
+  <br>
+  <br>
 
 
-  <!-- CONTRIBUTION SNAKE -->
+  <!-- ============================================================
+       CONTRIBUTION SNAKE
+  ============================================================= -->
 
   <picture>
 
@@ -457,7 +454,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   </picture>
 
 
-  <br><br>
+  <br>
+  <br>
 
 
   <sub>
@@ -474,9 +472,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      DIVIDER
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header"
@@ -488,9 +486,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      ENGINEERING AREAS
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <div align="center">
 
@@ -500,17 +498,14 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
   <p>
     <sub>
-      Technologies and system domains currently represented in the profile.
+      Technologies and system domains represented in the profile.
     </sub>
   </p>
 
   <br>
 
-
   <table>
-
     <tr>
-
 
       <!-- APPLICATIONS -->
 
@@ -520,7 +515,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
         <b>APPLICATIONS</b>
 
-        <br><br>
+        <br>
+        <br>
 
         <sub>
           Next.js
@@ -541,7 +537,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
         <b>SYSTEMS</b>
 
-        <br><br>
+        <br>
+        <br>
 
         <sub>
           Python
@@ -562,7 +559,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
         <b>INTELLIGENCE</b>
 
-        <br><br>
+        <br>
+        <br>
 
         <sub>
           AI Agents
@@ -583,7 +581,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
         <b>CONNECTED</b>
 
-        <br><br>
+        <br>
+        <br>
 
         <sub>
           WebSocket
@@ -595,9 +594,7 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 
       </td>
 
-
     </tr>
-
   </table>
 
 </div>
@@ -606,9 +603,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      DIVIDER
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <img
   src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header"
@@ -620,9 +617,9 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 <br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      CONNECT
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <div align="center">
 
@@ -649,7 +646,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   </a>
 
 
-  <br><br>
+  <br>
+  <br>
 
 
   <img
@@ -661,12 +659,13 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
 </div>
 
 
-<br><br>
+<br>
+<br>
 
 
-<!-- ═══════════════════════════════════════════════════════════════════
+<!-- ==============================================================
      FOOTER
-═══════════════════════════════════════════════════════════════════ -->
+============================================================== -->
 
 <div align="center">
 
@@ -689,7 +688,8 @@ Modern · Minimal · Systemic · Self-Hosted · Dark/Light Aware
   </sub>
 
 
-  <br><br>
+  <br>
+  <br>
 
 
   <a href="#top">
