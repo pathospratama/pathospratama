@@ -20,10 +20,6 @@
   <a href="https://github.com/pathospratama?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=AA9BEF" alt="Repositories"></a>
   <img src="https://komarev.com/ghpvc/?username=pathospratama&style=for-the-badge&color=AA9BEF&label=VIEWS" alt="Profile views">
   <img src="https://img.shields.io/badge/status-available-7EE7C7?style=for-the-badge&labelColor=0d1117" alt="Available">
-
-  <br>
-  <sub><b>🇬🇧</b> Indonesia-based · Software Engineering · Systems · AI · Interactive Technology<br>
-  <b>🇮🇩</b> Berbasis di Indonesia · Rekayasa Perangkat Lunak · Sistem · AI · Teknologi Interaktif</sub>
 </div>
 
 
