@@ -83,12 +83,8 @@
   </picture>
 </div>
 
-<div align="center"><sub><code>PATHOS // SNAKE.PROTOCOL</code> · Lavender snake · GitHub contribution colors · Dark/light aware</sub></div>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer" width="100%" alt="Footer">
 <div align="center">
-  <h3><code>Build · Learn · Ship · Repeat</code></h3>
   <sub>Built with code, curiosity & persistence — <b>@pathospratama</b><br>Dibangun dengan code, rasa ingin tahu & kegigihan — <b>@pathospratama</b></sub>
   <br><br>
   <a href="#top"><img src="https://img.shields.io/badge/↑%20Back%20to%20Top-0d1117?style=for-the-badge&logo=github&logoColor=AA9BEF" alt="Back to top"></a>
