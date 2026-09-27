@@ -24,7 +24,7 @@
 
   <br><br>
 
-  <!-- ─── BADGES ─── -->
+  <!-- ─── BADGES ROW 1 ─── -->
   <a href="https://github.com/pathospratama">
     <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub">
   </a>
@@ -33,19 +33,23 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=pathospratama&style=for-the-badge&color=FF073A&label=INTRUSIONS" alt="Intrusions">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=000000" alt="Status">
+
   <br>
+
+  <!-- ─── BADGES ROW 2 ─── -->
   <img src="https://img.shields.io/badge/SHELL-bash-FF073A?style=for-the-badge&labelColor=000000&logo=gnubash&logoColor=39FF14" alt="Shell">
   <img src="https://img.shields.io/badge/ACCESS-ROOT-39FF14?style=for-the-badge&labelColor=000000&logo=linux&logoColor=FF073A" alt="Root Access">
   <img src="https://img.shields.io/badge/UPTIME-99.9%25-FF073A?style=for-the-badge&labelColor=000000" alt="Uptime">
+  <img src="https://img.shields.io/badge/LOCATION-INDONESIA-39FF14?style=for-the-badge&labelColor=000000&logo=googlemaps&logoColor=FF073A" alt="Location">
 
 </div>
 
 <br>
 
-<!-- ═══════════════ SINGLE TERMINAL BOX (NEOFETCH STYLE) ═══════════════ -->
+<!-- ═══════════════ SINGLE TERMINAL BOX (1 BARIS) ═══════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=240&text=%3E%20root%40pathos%3A~%24%20neofetch&fontColor=39FF14&fontSize=20&fontAlign=50&fontAlignY=15&desc=Pathos%20Kratos%20%E2%80%94%20Senior%20Developer%20%26%20IT%20Consultant%0A%0AOS%3A%20PathosOS%209.0%20x86_64%20%7C%20Shell%3A%20bash%20%7C%20Uptime%3A%2024%2F7%0AStacks%3A%20Full-Stack%20%C2%B7%20AI%20%C2%B7%20Backend%20%C2%B7%203D%20%C2%B7%20IoT%0AStatus%3A%20%5B%E2%97%8F%5D%20ONLINE%20%7C%20Location%3A%20Indonesia&descAlign=50&descAlignY=55&descSize=15&descColor=39FF14" width="100%" alt="root@pathos neofetch">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=100&text=%3E%20root%40pathos%3A~%24%20neofetch&fontColor=39FF14&fontSize=22&fontAlign=50&fontAlignY=40&desc=Pathos%20Kratos%20%E2%80%94%20Senior%20Developer%20%26%20IT%20Consultant&descAlign=50&descAlignY=75&descSize=14&descColor=FF073A" width="100%" alt="root@pathos neofetch">
 </div>
 
 <br>
