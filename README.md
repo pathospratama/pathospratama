@@ -70,9 +70,7 @@
 <br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
 
-<!-- 06 ANALYTICS -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=06%20%C2%B7%20ENGINEERING%20ACTIVITY&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Engineering activity"></div>
-<br>
+
 <div align="center">
   <sub>Live contribution movement · activity is treated as the system's data stream</sub>
   <br><br>
