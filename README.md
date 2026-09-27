@@ -83,19 +83,6 @@
   </picture>
 </div>
 
-<br>
-
-<table>
-<tr>
-  <td width="25%" align="center"><code>HEAD</code><br><sub>find active contribution</sub></td>
-  <td width="25%" align="center"><code>BODY</code><br><sub>follow traversal path</sub></td>
-  <td width="25%" align="center"><code>BITE</code><br><sub>consume active cell</sub></td>
-  <td width="25%" align="center"><code>LOOP</code><br><sub>restart from the grid edge</sub></td>
-</tr>
-</table>
-
-<br>
-
 <div align="center"><sub><code>PATHOS // SNAKE.PROTOCOL</code> · Lavender snake · GitHub contribution colors · Dark/light aware</sub></div>
 
 
