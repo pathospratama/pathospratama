@@ -1,10 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════
-     PATHOS KRATOS — GITHUB PROFILE README
-     Edition : Curated v6 · Systemic · Animated · Self-Hosted · Bilingual
-     Sections: hero · focus · projects · stack · signals · self-hosted
-               analytics · contribution snake · system · direction · connect · footer
-     Palette : #AA9BEF (lavender) · #7EE7C7 (mint) · #F5C77E (amber)
-     ═══════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
   
@@ -32,14 +26,7 @@
   <b>🇮🇩</b> Berbasis di Indonesia · Rekayasa Perangkat Lunak · Sistem · AI · Teknologi Interaktif</sub>
 </div>
 
-<br>
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
-
-<!-- 04 SIGNALS -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=04%20%C2%B7%20SIGNALS&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Signals"></div>
-<br>
 
 <table>
 <tr>
@@ -48,15 +35,9 @@
 </tr>
 </table>
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%" alt="divider">
 
-<!-- 05 SELF-HOSTED -->
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=60&text=05%20%C2%B7%20SELF-HOSTED&fontSize=26&fontColor=AA9BEF&animation=twinkling" width="100%" alt="Self-hosted"></div>
-<br>
 
 <div align="center">
-  <sub>Repository-owned SVGs · Python generators · GitHub Actions</sub>
   <br><br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
