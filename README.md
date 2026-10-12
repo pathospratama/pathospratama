@@ -14,8 +14,6 @@
   </picture>
 
 
-<br>
-
 <!-- ═══════════════ SNAKE ═══════════════ -->
 
 <div align="center">
@@ -27,7 +25,7 @@
   </picture>
 </div>
 
-<br>
+
 
 <br><br>
 <div align="center">
