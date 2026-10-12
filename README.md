@@ -39,12 +39,12 @@
   </table>
 </div>
 
-<br>
+
 
 <!-- ═══════════════ STATS + METRICS ═══════════════ -->
 
 <div align="center">
-  <code><span style="color:#39FF14;">&gt; fetch --stats --metrics --user=@pathospratama</span></code>
+  
   <br><br>
 
   <picture>
@@ -56,7 +56,6 @@
   <img src="assets/metrics.languages.svg" width="760" alt="Self-hosted technology mix">
 </div>
 
-<br>
 
 <!-- ═══════════════ ASCII DIVIDER ═══════════════ -->
 
