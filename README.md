@@ -34,6 +34,10 @@
 
 <br>
 
+<div align="center">
+ 
+  <img src="assets/metrics.languages.svg" width="760" alt="Self-hosted technology mix">
+</div>
 
 
 <div align="center">
