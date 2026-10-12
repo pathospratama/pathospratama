@@ -33,7 +33,7 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-          <img src="assets/radar-langs-dark.svg" width="300" alt="Technology Radar" />
+          <img src="assets/radar-langs-dark.svg" width="560" alt="Technology Radar" />
         </picture>
       </td>
     </tr>
