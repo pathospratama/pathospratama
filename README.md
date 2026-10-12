@@ -62,21 +62,7 @@
 </div>
 
 
-<!-- ═══════════════ STATS + METRICS ═══════════════ -->
-
-
-
-
-
-
-
-
-<!-- ═══════════════ FOOTER ═══════════════ -->
-
 <div align="center">
-  <code><span style="color:#FF073A;">[ connection_terminated ]</span></code>
-  <br>
-  <code><span style="color:#39FF14;">$ exit 0 · built with code, curiosity &amp; persistence</span></code>
   <br><br>
   <sub>Dibangun dengan code, rasa ingin tahu &amp; kegigihan — <b>@pathospratama</b></sub>
   <br><br>
