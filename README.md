@@ -63,9 +63,8 @@
 
 
 <div align="center">
-  <br><br>
   <sub>Dibangun dengan code, rasa ingin tahu &amp; kegigihan — <b>@pathospratama</b></sub>
-  <br><br>
+  
   <a href="#top">
     <img src="https://img.shields.io/badge/↑_BACK_TO_TOP-000000?style=for-the-badge&logo=github&logoColor=39FF14" alt="Back to top">
   </a>
