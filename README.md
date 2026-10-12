@@ -34,7 +34,7 @@
 
 
 <div align="center">
-
+<br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <br><br>
+  <br>
   <table>
     <tr>
       <th>Technology Radar · Radar Teknologi</th>
@@ -58,7 +58,7 @@
       </td>
     </tr>
   </table>
-  <br><br>
+  <br>
 </div>
 
 
