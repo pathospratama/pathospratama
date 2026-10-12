@@ -22,12 +22,22 @@
 
 
 
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="100%" alt="Technology radar">
-</picture> |
+<div align="center">
+  <table>
+    <tr>
+      <th>Technology Radar · Radar Teknologi</th>
+    </tr>
+    <tr>
+      <td align="center">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+          <img src="assets/radar-langs-dark.svg" width="300" alt="Technology Radar" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
