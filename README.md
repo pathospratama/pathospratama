@@ -1,3 +1,7 @@
+<!-- ─── TYPING TAGLINE ─── -->
+  <a href="https://github.com/pathospratama">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+root%40pathos%3A~%24+initializing...;Senior+Developer+%26+IT+Consultant;Full-Stack+%C2%B7+AI+%C2%B7+Backend+%C2%B7+3D+%C2%B7+IoT;%5B+ACCESS+GRANTED+%5D" alt="Typing tagline">
+  </a>
 
 
 <div align="center">
@@ -12,11 +16,6 @@
   </picture>
 
   <br><br>
-
-  <!-- ─── TYPING TAGLINE ─── -->
-  <a href="https://github.com/pathospratama">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=%3E+root%40pathos%3A~%24+initializing...;Senior+Developer+%26+IT+Consultant;Full-Stack+%C2%B7+AI+%C2%B7+Backend+%C2%B7+3D+%C2%B7+IoT;%5B+ACCESS+GRANTED+%5D" alt="Typing tagline">
-  </a>
 
 
 <br>
