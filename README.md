@@ -34,12 +34,12 @@
 
 <br>
 
-<br>
+<br><br>
 <div align="center">
  
   <img src="assets/metrics.languages.svg" width="760" alt="Self-hosted technology mix">
 </div>
-<br>
+<br><br>
 
 <div align="center">
   <br><br>
