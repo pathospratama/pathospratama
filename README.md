@@ -21,38 +21,13 @@
 
 
 
-<br>
 
-<!-- ═══════════════ RADAR SECTION ═══════════════ -->
+<picture>
 
-<div align="center">
-  <code><span style="color:#39FF14;">&gt; radar_scan --target=skills --status=</span><span style="color:#FF073A;">ACTIVE</span></code>
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-    <img src="assets/radar-dark.svg" width="100%" alt="Engineering skill radar">
-  </picture>
-  <br>
-  <sub>Engineering Skill Radar · Radar Kompetensi</sub>
-</td>
-<td width="50%" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-    <img src="assets/radar-langs-dark.svg" width="100%" alt="Technology radar">
-  </picture>
-  <br>
-  <sub>Technology Radar · Radar Teknologi</sub>
-</td>
-</tr>
-</table>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="100%" alt="Technology radar">
+</picture> |
 
 <br>
 
