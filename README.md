@@ -19,6 +19,20 @@
   </a>
 
 
+<br>
+
+<!-- ═══════════════ SNAKE ═══════════════ -->
+
+<div align="center">
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg">
+    <img width="96%" src="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg" alt="Pathos Kratos animated GitHub contribution snake">
+  </picture>
+</div>
+
+<br>
 
 
 
@@ -58,27 +72,10 @@
 </div>
 
 
-<!-- ═══════════════ ASCII DIVIDER ═══════════════ -->
 
-<div align="center">
-  <code><span style="color:#39FF14;">──────[</span> <span style="color:#FF073A;">■</span> <span style="color:#39FF14;">]────── SYSTEM BREACH DETECTED ──────[</span> <span style="color:#FF073A;">■</span> <span style="color:#39FF14;">]──────</span></code>
-</div>
 
-<br>
 
-<!-- ═══════════════ SNAKE ═══════════════ -->
 
-<div align="center">
-  <code><span style="color:#39FF14;">&gt; tail -f /var/log/contributions.log</span></code>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg">
-    <img width="96%" src="https://raw.githubusercontent.com/pathospratama/pathospratama/output/github-contribution-snake-light.svg" alt="Pathos Kratos animated GitHub contribution snake">
-  </picture>
-</div>
-
-<br>
 
 <!-- ═══════════════ FOOTER ═══════════════ -->
 
