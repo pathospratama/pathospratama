@@ -34,15 +34,12 @@
 
 
 <div align="center">
-  
-  <br><br>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
     <img src="assets/card-stats-dark.svg" width="560" alt="Self-hosted GitHub statistics">
   </picture>
-  <br><br>
 </div>
 
 <div align="center">
